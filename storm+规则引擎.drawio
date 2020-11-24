@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-24T02:06:59.136Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36" etag="yQAgPyN2aGsYTRPV5aHg" version="13.10.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-24T02:09:06.654Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36" etag="brtkVX87DlTuXBrQZAsV" version="13.10.1" type="github">
   <diagram id="RqA7gkf1sfRdEyldcE1K" name="Page-1">
     <mxGraphModel dx="946" dy="557" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -217,16 +217,16 @@
           <mxGeometry x="147" y="711" width="65" height="31" as="geometry" />
         </mxCell>
         <mxCell id="BtfTo6FAUonUfdYVLxbR-67" value="kafka" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="27" y="701" width="65" height="31" as="geometry" />
+          <mxGeometry x="21" y="765" width="65" height="31" as="geometry" />
         </mxCell>
         <mxCell id="BtfTo6FAUonUfdYVLxbR-69" value="kafka" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="37" y="711" width="65" height="31" as="geometry" />
+          <mxGeometry x="31" y="775" width="65" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="BtfTo6FAUonUfdYVLxbR-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BtfTo6FAUonUfdYVLxbR-70" target="BtfTo6FAUonUfdYVLxbR-65">
+        <mxCell id="BtfTo6FAUonUfdYVLxbR-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BtfTo6FAUonUfdYVLxbR-70" target="BtfTo6FAUonUfdYVLxbR-99">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BtfTo6FAUonUfdYVLxbR-70" value="kafka" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="47" y="721" width="65" height="31" as="geometry" />
+          <mxGeometry x="41" y="785" width="65" height="31" as="geometry" />
         </mxCell>
         <mxCell id="BtfTo6FAUonUfdYVLxbR-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BtfTo6FAUonUfdYVLxbR-71" target="BtfTo6FAUonUfdYVLxbR-65">
           <mxGeometry relative="1" as="geometry" />
@@ -303,6 +303,12 @@
         </mxCell>
         <mxCell id="BtfTo6FAUonUfdYVLxbR-98" value="写入存储" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="461" y="691" width="58" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BtfTo6FAUonUfdYVLxbR-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="BtfTo6FAUonUfdYVLxbR-99" target="BtfTo6FAUonUfdYVLxbR-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BtfTo6FAUonUfdYVLxbR-99" value="spout" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="147" y="775" width="65" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
